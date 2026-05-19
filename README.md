@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Nimra Youns
 - **Email**: nimrayous@gmail.com
-- **LinkedIn**: [linkedin.com/in/nimra-youns](linkedin.com/in/nimra-youns-53a679238)
+- **LinkedIn**: linkedin.com/in/nimra-youns-53a679238
 - **GitHub**: [@nimra-youns](https://github.com/nimra-youns)
 
 ---
